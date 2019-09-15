@@ -1,0 +1,14 @@
+body {
+  background: #222;
+  margin: 0;
+  padding: 0;
+}
+h1{
+  font-family: sans-serif;
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 10px;
+  color: #666;
+  letter-spacing: 3px;
+  padding: 5%;
+}
